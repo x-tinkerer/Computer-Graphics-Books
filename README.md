@@ -2,14 +2,14 @@
 
 ## [01. Computer-Graphics-Principles-and-Practice](./Computer-Graphics-Principles-and-Practice.pdf) 
 
-![](.\imgs/Computer%20Graphics-%20Principles%20and%20Practice.jpg)
+![](imgs/Computer%20Graphics-%20Principles%20and%20Practice.jpg)
 
 Amazon: https://www.amazon.com/Computer-Graphics-Principles-Practice-3rd/dp/0321399528
 
 
 ## [02. Fundamentals-of-Computer-Graphics-Fourth-Edition](./Fundamentals-of-Computer-Graphics-Fourth-Edition.pdf)
 
-![](./imgs/Fundamentals%20of%20Computer%20Graphics.jpeg)
+![](imgs/Fundamentals%20of%20Computer%20Graphics.jpeg)
 
 Amazon: https://www.amazon.com/Fundamentals-Computer-Graphics-Steve-Marschner/dp/1482229390
 
